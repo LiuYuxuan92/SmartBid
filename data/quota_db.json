@@ -1,0 +1,6 @@
+{
+    "WALL": {"code": "A-001", "unit_price": 350.0, "unit": "m2", "description": "墙体工程"},
+    "FLOOR": {"code": "A-002", "unit_price": 280.0, "unit": "m2", "description": "地面工程"},
+    "ROOF": {"code": "A-003", "unit_price": 420.0, "unit": "m2", "description": "屋面工程"},
+    "AXIS": {"code": "B-001", "unit_price": 15.0, "unit": "m", "description": "轴线标注"}
+}

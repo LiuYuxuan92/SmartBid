@@ -1,0 +1,13 @@
+playwright>=1.40
+scrapy>=2.11
+scrapling>=0.2
+ezdxf>=0.18
+chromadb>=0.4
+numpy>=1.26
+pandas>=2.1
+scikit-learn>=1.4
+python-docx>=1.1
+PyYAML>=6.0
+httpx>=0.25
+hypothesis>=6.92
+pytest>=7.4
